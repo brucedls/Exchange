@@ -1,11 +1,12 @@
 # Exchange
 
-##Trading
+## Trading
 
-###Orderbook
-###Chart
-###Orders
-###Recent Trades
-###Order entry
+### Orderbook
+### Chart
++ Tradingview
+### Orders
+### Recent Trades
+### Order entry
 
 # Flow
